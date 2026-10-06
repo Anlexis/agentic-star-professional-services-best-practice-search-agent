@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kb-001",
+    "title": "Discovery-phase methodology for technology transformation engagements",
+    "category": "methodology",
+    "source": "Delivery Methodology Handbook, discovery phase",
+    "tags": ["discovery", "methodology", "assessment", "transformation", "migration", "roadmap"],
+    "content": "The standard discovery phase for a technology transformation engagement, including ERP and SAP migrations, runs four steps: a current-state assessment of systems and processes, structured stakeholder interviews across business and IT, a gap analysis against the target operating model, and a phased delivery roadmap with milestones and dependencies. Discovery findings are captured in a findings deck and validated with the client sponsor before the engagement moves into detailed design."
+  },
+  {
+    "id": "kb-002",
+    "title": "Requirements-elicitation workshop format for engagement kickoff",
+    "category": "methodology",
+    "source": "Delivery Methodology Handbook, requirements phase",
+    "tags": ["requirements", "elicitation", "workshop", "kickoff", "stakeholder"],
+    "content": "Requirements-elicitation workshops open every engagement kickoff: a scoping session confirms objectives and success criteria, structured interviews capture functional and non-functional requirements from named stakeholders, and a requirements traceability log ties each captured item to its source and priority. Ambiguous or conflicting requirements are flagged for a follow-up clarification session before the design phase begins."
+  },
+  {
+    "id": "kb-003",
+    "title": "Change-management framework for ERP rollouts and process transformation",
+    "category": "methodology",
+    "source": "Delivery Methodology Handbook, change management",
+    "tags": ["change", "management", "adoption", "training", "rollouts", "communication"],
+    "content": "The change-management framework for ERP rollouts and process transformation covers four workstreams: a stakeholder impact assessment, a communication plan segmented by audience, role-based training curricula, and a post-go-live adoption monitoring plan with defined success metrics. Change readiness is scored at each stage gate before the rollout proceeds to the next wave."
+  },
+  {
+    "id": "kb-004",
+    "title": "Advisory disclaimer duties for knowledge-base-derived guidance",
+    "category": "disclosure",
+    "source": "Client Communications Standard, advisory disclaimers",
+    "tags": ["disclaimer", "advisory", "disclosure", "guidance", "client"],
+    "content": "Any answer assembled from the internal knowledge base and shared with a client or used inside a deliverable must carry an advisory disclaimer stating that the content is informational, summarizes internal methodology and guidance materials, and does not replace engagement-specific analysis or partner review. The disclaimer must travel together with the substance in the same document or message, never on a separate page, so the guidance is never read without the qualification."
+  },
+  {
+    "id": "kb-005",
+    "title": "Japan Subcontract Act compliance overview for outsourced delivery work",
+    "category": "regulatory_guidance",
+    "source": "Regulatory Guidance Note, Subcontract Act overview",
+    "tags": ["japan", "subcontract", "act", "regulatory", "outsourced", "delivery", "compliance"],
+    "content": "Engagements that subcontract delivery work to a Japan-based vendor must observe the Subcontract Act: issue a written order promptly stating the work, price, and payment date; pay within sixty days of acceptance; and avoid prohibited practices such as unjustified price cuts, order cancellation after work has started, or forced purchase of unrelated goods. Engagement leads confirm subcontract terms against this checklist before a Japan-based statement of work is issued."
+  },
+  {
+    "id": "kb-006",
+    "title": "Benchmark utilization rate ranges for mid-market cloud-assessment engagements",
+    "category": "benchmark",
+    "source": "Engagement Economics Benchmark Set, cloud assessment",
+    "tags": ["benchmark", "utilization", "rate", "cloud", "assessment", "mid-market"],
+    "content": "Mid-market cloud-assessment engagements typically run a billable utilization rate between sixty-five and seventy-five percent across the assessment phase, rising toward eighty percent once the team moves into migration execution. Utilization below the benchmark range on an active engagement should trigger a staffing review with the engagement manager; utilization consistently above the range is a scope-creep signal worth a client conversation."
+  },
+  {
+    "id": "kb-007",
+    "title": "Past-engagement insight: lessons learned from a manufacturing ERP go-live",
+    "category": "past_engagement",
+    "source": "Post-Engagement Retrospective Archive, manufacturing ERP go-live",
+    "tags": ["past-engagement", "lessons-learned", "manufacturing", "erp", "go-live", "retrospective"],
+    "content": "A prior manufacturing-sector ERP go-live surfaced three recurring lessons now folded into the methodology: freeze master-data cleanup at least two weeks before cutover, run a full dress-rehearsal cutover on production-equivalent data rather than a sample, and staff a hypercare desk through at least the first full month-end close. Engagements that skipped the dress rehearsal saw materially more cutover-weekend defects in the retrospective sample."
+  },
+  {
+    "id": "kb-008",
+    "title": "Client confidentiality and information-barrier controls between engagement teams",
+    "category": "governance",
+    "source": "Engagement Governance Policy, confidentiality and information barriers",
+    "tags": ["confidentiality", "information-barrier", "governance", "conflicts", "engagement-teams"],
+    "content": "When two engagement teams serve clients that compete in the same market, an information barrier must separate them: no shared workspace, no cross-team access to deliverables or working files, and a documented conflicts check before either engagement is staffed. A designated engagement-governance contact maintains the barrier log and approves any narrow, documented exception to share a named resource across the barrier."
+  },
+  {
+    "id": "kb-009",
+    "title": "Engagement record retention duties",
+    "category": "operations",
+    "source": "Recordkeeping Standard, engagement records",
+    "tags": ["records", "retention", "engagement", "operations", "recordkeeping"],
+    "content": "Engagement records, including statements of work, deliverables, working files, and client correspondence, must be retained for the standard retention period, generally seven years from engagement closure, and remain retrievable within a reasonable time. Records must be stored in the firm's document-management repository under the engagement code and protected against alteration for the full retention period; local copies outside the repository are not a substitute for the retained record."
+  },
+  {
+    "id": "kb-010",
+    "title": "Client escalation and issue-resolution procedure",
+    "category": "customer_protection",
+    "source": "Client Experience Standard, escalation handling",
+    "tags": ["escalation", "issue", "resolution", "client", "complaint"],
+    "content": "A client-raised issue is logged with its facts and the engagement code on the day it is received, acknowledged to the client within one business day, and assigned an owner who is not the person the issue concerns. Escalations that cannot be resolved by the engagement manager route to the practice lead, and unresolved escalations are reviewed monthly for control-weakness trends across engagements."
+  }
+]
